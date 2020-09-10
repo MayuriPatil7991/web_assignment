@@ -1,0 +1,6 @@
+package com.hdfc.assignment
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
